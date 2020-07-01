@@ -1,5 +1,5 @@
-# curso-clousures-scope-js
+# curso-closures-scope-js
 
-Curso de Clousures y Scope en JavaScript
+Curso de Closures y Scope en JavaScript
 
-[![time tracker](https://wakatime.com/badge/github/resparzasoto/curso-clousures-scope-js.svg)](https://wakatime.com/badge/github/resparzasoto/curso-clousures-scope-js)
+[![time tracker](https://wakatime.com/badge/github/resparzasoto/curso-closures-scope-js.svg)](https://wakatime.com/badge/github/resparzasoto/curso-closures-scope-js)

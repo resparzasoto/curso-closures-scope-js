@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/resparzasoto/curso-clousures-scope-js.git"
+    "url": "git+https://github.com/resparzasoto/curso-closures-scope-js.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/resparzasoto/curso-clousures-scope-js/issues"
+    "url": "https://github.com/resparzasoto/curso-closures-scope-js/issues"
   },
-  "homepage": "https://github.com/resparzasoto/curso-clousures-scope-js#readme"
+  "homepage": "https://github.com/resparzasoto/curso-closures-scope-js#readme"
 }
